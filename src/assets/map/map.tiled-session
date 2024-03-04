@@ -1,0 +1,43 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "": {
+            "scaleInEditor": 1
+        },
+        "map.tmx": {
+            "scale": 0.7774,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 681.7597118600464,
+                "y": 254.0519680987909
+            }
+        },
+        "map.tmx#Decorations (32x32)": {
+            "scaleInDock": 2
+        },
+        "map.tmx#Terrain (32x32)": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Inteli/OneDrive/Documents/JavaScript/Inteli/Projetos/JogoAutoralPhaser/src/assets/map",
+    "last.imagePath": "C:/Users/Inteli/OneDrive/Documents/JavaScript/Inteli/Projetos/JogoAutoralPhaser/src/assets/Sprites/14-TileSets",
+    "map.height": 24,
+    "map.lastUsedExportFilter": "Ficheiros de mapa JSON (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 40,
+    "openFiles": [
+        "map.tmx"
+    ],
+    "project": "map.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "map.tmx"
+    ],
+    "tileset.embedInMap": true
+}

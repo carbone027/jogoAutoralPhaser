@@ -1,0 +1,49 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Todos os Ficheiros (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "map/map.tmx": {
+            "scale": 0.8319921874999999,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 640.6310155406358,
+                "y": 320.3155077703179
+            }
+        },
+        "map/map.tmx#Decorations (32x32)": {
+            "scaleInDock": 1
+        },
+        "map/map.tmx#border": {
+            "scaleInDock": 1
+        },
+        "menu/menu.tmx": {
+            "scale": 0.8319921874999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 639.4290811775203,
+                "y": 384.01802901544676
+            }
+        },
+        "menu/menu.tmx#Terrain (32x32)": {
+            "scaleInDock": 1
+        },
+        "menu/menu.tmx#buttons": {
+            "scaleInDock": 1
+        },
+        "menu/menu.tmx#menu": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Inteli/OneDrive/Documents/JavaScript/Inteli/Projetos/JogoAutoralPhaser/src/assets/map",
+    "map.lastUsedExportFilter": "Ficheiros de mapa JSON (*.tmj *.json)",
+    "openFiles": [
+    ],
+    "project": "menu.tiled-project",
+    "recentFiles": [
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "C:/Users/Inteli/OneDrive/Documents/JavaScript/Inteli/Projetos/JogoAutoralPhaser/src/assets/Buttons/Sliced",
+    "map.height": 24,
+    "map.width": 40,
+    "openFiles": [
+    ],
+    "project": "menu.tiled-project",
+    "recentFiles": [
+    ],
+    "tileset.embedInMap": true
+}
